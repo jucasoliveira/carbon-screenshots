@@ -1,6 +1,6 @@
 {
   "name": "carbon-screenshots",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Npm package to generate carbon images",
   "main": "./dist/index.js",
   "scripts": {
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/jucasoliveira/carbon-screenshots#readme",
   "dependencies": {
-    "axios": "0.20.0",
     "chrome-aws-lambda": "^10.1.0",
     "puppeteer": "^13.1.0"
   },
