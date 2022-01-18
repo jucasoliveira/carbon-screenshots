@@ -1,11 +1,11 @@
-declare interface CarbonParameters {
+interface CarbonParameters {
   code: string;
   theme?: Theme;
   language?: string;
   output?: string;
 }
 
-declare type Theme =
+type Theme =
   | "3024 Night"
   | "A11y Dark"
   | "Blackboard"
